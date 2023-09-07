@@ -85,10 +85,10 @@
 • /status - 𝑌𝑜𝑢𝑟 𝐻𝑒𝑟𝑜𝑘𝑢 𝐴𝑃𝐼 𝐾𝑒𝑦 𝑡𝑜 𝑐ℎ𝑒𝑐𝑘 𝑑𝑦𝑛𝑜, 𝑏𝑜𝑡 𝑢𝑝𝑡𝑖𝑚𝑒 𝑎𝑛𝑑 𝑏𝑜𝑡 𝑤𝑜𝑟𝑘𝑖𝑛𝑔 𝑑𝑎𝑦 𝑝𝑟𝑒𝑑𝑖𝑐𝑡𝑖𝑜𝑛.
 • /set_template - 𝑇𝑜 𝑠𝑒𝑡 𝑎 𝑐𝑢𝑠𝑡𝑜𝑚 𝐼𝑀𝐷𝑏 𝑡𝑒𝑚𝑝𝑙𝑎𝑡𝑒 𝑓𝑜𝑟 𝑖𝑛𝑑𝑖𝑣𝑖𝑑𝑢𝑎𝑙 𝑔𝑟𝑜𝑢𝑝𝑠
 • /gfilter - 𝑇𝑜 𝑎𝑑𝑑 𝑔𝑙𝑜𝑏𝑎𝑙 𝑓𝑖𝑙𝑡𝑒𝑟𝑠.
-• /gfilters - 𝑇𝑜 𝑣𝑖𝑒𝑤 𝑙𝑖𝑠𝑡 𝑜𝑓 𝑎𝑙𝑙 𝑔𝑙𝑜𝑏𝑎𝑙 𝑓𝑖𝑙𝑡𝑒𝑟𝑠.
-• /delg - 𝑇𝑜 𝑑𝑒𝑙𝑒𝑡𝑒 𝑎 𝑠𝑝𝑒𝑐𝑖𝑓𝑖𝑐 𝑔𝑙𝑜𝑏𝑎𝑙 𝑓𝑖𝑙𝑡𝑒𝑟.
-• /delallg - 𝑇𝑜 𝑑𝑒𝑙𝑒𝑡𝑒 𝑎𝑙𝑙 𝑔𝑙𝑜𝑏𝑎𝑙 𝑓𝑖𝑙𝑡𝑒𝑟𝑠 𝑓𝑟𝑜𝑚 𝑡ℎ𝑒 𝑏𝑜𝑡'𝑠 𝑑𝑎𝑡𝑎𝑏𝑎𝑠𝑒.
-• /deletefiles - 𝑇𝑜 𝑑𝑒𝑙𝑒𝑡𝑒 𝑃𝑟𝑒𝐷𝑉𝐷 𝑎𝑛𝑑 𝐶𝑎𝑚𝑅𝑖𝑝 𝐹𝑖𝑙𝑒𝑠 𝑓𝑟𝑜𝑚 𝑡ℎ𝑒 𝑏𝑜𝑡'𝑠 𝑑𝑎𝑡𝑎𝑏𝑎𝑠𝑒.
+gfilters - 𝑇𝑜 𝑣𝑖𝑒𝑤 𝑙𝑖𝑠𝑡 𝑜𝑓 𝑎𝑙𝑙 𝑔𝑙𝑜𝑏𝑎𝑙 𝑓𝑖𝑙𝑡𝑒𝑟𝑠.
+delg - 𝑇𝑜 𝑑𝑒𝑙𝑒𝑡𝑒 𝑎 𝑠𝑝𝑒𝑐𝑖𝑓𝑖𝑐 𝑔𝑙𝑜𝑏𝑎𝑙 𝑓𝑖𝑙𝑡𝑒𝑟.
+delallg - 𝑇𝑜 𝑑𝑒𝑙𝑒𝑡𝑒 𝑎𝑙𝑙 𝑔𝑙𝑜𝑏𝑎𝑙 𝑓𝑖𝑙𝑡𝑒𝑟𝑠 𝑓𝑟𝑜𝑚 𝑡ℎ𝑒 𝑏𝑜𝑡'𝑠 𝑑𝑎𝑡𝑎𝑏𝑎𝑠𝑒.
+deletefiles - 𝑇𝑜 𝑑𝑒𝑙𝑒𝑡𝑒 𝑃𝑟𝑒𝐷𝑉𝐷 𝑎𝑛𝑑 𝐶𝑎𝑚𝑅𝑖𝑝 𝐹𝑖𝑙𝑒𝑠 𝑓𝑟𝑜𝑚 𝑡ℎ𝑒 𝑏𝑜𝑡'𝑠 𝑑𝑎𝑡𝑎𝑏𝑎𝑠𝑒.
 ```
 
 ## Variables
@@ -112,7 +112,7 @@
 <details><summary>Deploy To Heroku</summary>
 <p>
 <br>
-<a href="https://heroku.com/deploy?template=https://github.com/TeamHMT/Auto-search-tamil-bot">
+<a href="https://heroku.com/deploy?template=https://github.com/GamingBeast1/THALAPATHY-FILTER-BOT">
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy To Heroku">
 </a>
 </p>
@@ -151,7 +151,7 @@ Use these settings when adding a monitor:</b>
 <b>Click on the below button to deploy directly to render ↓</b>
 <br>
 <br>
-<a href="https://render.com/deploy?repo=https://github.com/TeamHMT/Auto-search-tamil-bot/tree/main">
+<a href="https://render.com/deploy?repo=https://github.com/GamingBeast1/THALAPATHY-FILTER-BOT">
 <img src="https://render.com/images/deploy-to-render-button.svg" alt="Deploy to Render">
 </a>
 </details>
